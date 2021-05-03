@@ -1,0 +1,7 @@
+E:\OneDrive - Óbudai egyetem\SwDD\SwDD II\SwDD II Visual Studio\Lord Of The Rings\bin\Debug\Lord Of The Rings.exe.config
+E:\OneDrive - Óbudai egyetem\SwDD\SwDD II\SwDD II Visual Studio\Lord Of The Rings\bin\Debug\Lord Of The Rings.exe
+E:\OneDrive - Óbudai egyetem\SwDD\SwDD II\SwDD II Visual Studio\Lord Of The Rings\bin\Debug\Lord Of The Rings.pdb
+E:\OneDrive - Óbudai egyetem\SwDD\SwDD II\SwDD II Visual Studio\Lord Of The Rings\obj\Debug\Lord Of The Rings.csproj.CoreCompileInputs.cache
+E:\OneDrive - Óbudai egyetem\SwDD\SwDD II\SwDD II Visual Studio\Lord Of The Rings\obj\Debug\Lord Of The Rings.exe
+E:\OneDrive - Óbudai egyetem\SwDD\SwDD II\SwDD II Visual Studio\Lord Of The Rings\obj\Debug\Lord Of The Rings.pdb
+E:\OneDrive - Óbudai egyetem\SwDD\SwDD II\SwDD II Visual Studio\Lord Of The Rings\obj\Debug\Lord Of The Rings.csprojAssemblyReference.cache
