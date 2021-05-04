@@ -1,0 +1,1 @@
+A console programm generating a random graph using adjacency matrix and fullfilling different kind of simple tasks like findig the shortest path between two nodes and finding the neighbours of given nodes. (Project has been inspired by the Lord Of the Rings universe.)   
